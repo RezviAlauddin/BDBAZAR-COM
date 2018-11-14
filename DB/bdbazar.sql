@@ -69,7 +69,7 @@ CREATE TABLE `user_info` (
 --
 
 INSERT INTO `user_info` (`id`, `first_name`, `last_name`, `email`, `password`, `mobile`, `address`, `post_code`, `division`) VALUES
-(12, 'Mah Dian', 'Drovo', 'legenddro007@gmail.com', '1234', '01676946820', 'House Number: 44, Road Number: 02, Banasree, Rampura, Dhaka-1219', '1219', 'Dhaka');
+(12, 'Rezvi', 'Alauddin', 'rezvialauddin@gmail.com', '1234', '01951105924', 'House Number: 00, Road Number: 000, goran,, Dhaka-1219', '1219', 'Dhaka');
 
 --
 -- Indexes for dumped tables
