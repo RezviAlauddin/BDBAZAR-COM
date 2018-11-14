@@ -1,0 +1,68 @@
+td > input {
+    width: 300px;
+    height: 40px;
+    border-radius: 3px;
+    border-style: ridge;
+    outline: none;
+    padding: 8px;
+    border: 1px solid #3EACFD;
+    background-color: white;
+}
+
+td > input:hover {
+    border: 1px solid #3EFD6F;
+    transition: .2s;
+
+}
+
+fieldset {
+    width: 40%;
+    padding: 60px 60px;
+    border-style: ridge;
+    border: 1px solid #f1f1f1;
+    border-radius: 5px;
+    background-color: white;
+    font-family: sans-serif;
+    box-shadow: 1px 1px 40px limegreen;
+}
+
+.label {
+    background-color: #f1f1f1;
+    color: #555;
+    border-radius: 3px;
+    padding: 8px;
+}
+
+.submit {
+    background-color: #3EC0FD;
+    border: 2px solid #16A0E0;
+    outline-color: #f1f1f1;
+    color: white;
+    border-radius: 3px;
+    border-style: solid;
+    width: 100px;
+    letter-spacing: 1px;
+    padding: 8px;
+}
+
+legend {
+    background-color: white;
+    color: #555;
+    padding: 8px 100px 0px 100px;
+    border-radius: 10px;
+
+}
+
+.margin {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+body {
+    background: #7ef692;
+}
+
+tr {
+    height: 20px;
+    border-spacing: 5em;
+}
